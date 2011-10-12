@@ -6,3 +6,18 @@ Skrypty do wyłączania portalu lugpol.pl
 
 ruby wylacz_lugpol.rb
 - blokuje konto wszystkich userów
+
+(06:52:11 PM) zapu: jak to dziala?
+(06:52:27 PM) barnaba: mają tam zajebistą captchę
+(06:52:31 PM) barnaba: like 30 obrazków
+(06:52:36 PM) barnaba: i myslalem, ze zrobię tablicę z tego
+(06:52:39 PM) barnaba: ale okazało się
+(06:52:42 PM) barnaba: że w poście wysyłasz
+(06:52:46 PM) barnaba: na który obrazek odpowiadasz
+(06:52:49 PM) zapu: lol
+(06:52:50 PM) zapu: classic
+(06:52:55 PM) zapu: prawie jak recaptcha
+(06:52:55 PM) barnaba: i limit na 5 prób logowania na usera
+(06:53:01 PM) barnaba: i publiczna lista userów
+(06:53:04 PM) zapu: hahaha
+zapu is typing...
