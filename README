@@ -1,0 +1,8 @@
+Wyłącz lugpol...
+Skrypty do wyłączania portalu lugpol.pl
+
+./zablokuj_usera <username>
+- blokuje konto konkretnego użytkownika
+
+ruby wylacz_lugpol.rb
+- blokuje konto wszystkich userów
